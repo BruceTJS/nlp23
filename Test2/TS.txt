@@ -1,0 +1,37 @@
+
+economy	 NN
+'s	POS
+temperature	NN
+will	MD
+be	VB
+taken	VBN
+from	IN
+several	JJ
+vantage	NN
+points	NNS
+this	DT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
